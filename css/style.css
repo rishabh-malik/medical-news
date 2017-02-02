@@ -80,13 +80,15 @@ list-style-type: none!important;
 color: #2c2c2d;
 
 text-decoration: none;
-
+	 list-style-type: none !important;
 
 }
 .playbutton:hover {
 	display: block;
 	color: #2c2c2d;
 	text-decoration: none;
+	 list-style-type: none !important;
+
 }
 .play1 {
 	cursor: pointer;
